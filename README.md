@@ -53,7 +53,7 @@ A Google Chrome/Firefox extension that blocks NSFW images from the web pages tha
   <img alt="GitHub release" src="https://raw.githubusercontent.com/nsfw-filter/nsfw-filter/master/demo/images/demo_v3.gif">
 </p>
 
-When a web page is loaded, all the images remain hidden until they are found to be NSFW or not. If they are found to be NSFW, they remain hidden. Otherwise, they become visible.
+When a web page is loaded, all the images remain hidden until they are found to be NSFW or not. If they are found to be NSFW, they remain hidden. Otherwise, they become visible. Elam's change.
 
 It is free and is currently supported on both Chrome and Firefox. We are working on porting this to Safari also.
 </br>
